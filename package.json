@@ -1,0 +1,14 @@
+{
+  "name": "door-lock",
+  "version": "1.0.0",
+  "description": "NodeJS based arduino code to control locking and unlocking of a lock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Novicki <supercycle91@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.0.0"
+  }
+}
